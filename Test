@@ -14,7 +14,7 @@
     "id": "scania",
     "make": "Scania",
     "model": "S",
-    "speed": 0.00294171227,
+    "speed": 0.002693406,
     "cruiseControlSpeed": 0,
     "cruiseControlOn": false,
     "odometer": 135047.063,
@@ -79,7 +79,7 @@
     "blinkerRightOn": false,
     "lightsParkingOn": false,
     "lightsBeamLowOn": false,
-    "lightsBeamHighOn": false,
+    "lightsBeamHighOn": true,
     "lightsAuxFrontOn": false,
     "lightsAuxRoofOn": false,
     "lightsBeaconOn": false,
@@ -89,14 +89,14 @@
       "x": 6607.362213134766,
       "y": 6.3509321212768555,
       "z": 50088.927154541016,
-      "heading": 0.49891114234924316,
-      "pitch": -0.000023070861061569303,
-      "roll": 0.000005274423529044725
+      "heading": 0.4989107549190521,
+      "pitch": -0.00002322264299436938,
+      "roll": 0.000005084696113044629
     },
     "acceleration": {
-      "x": -0.000132676869,
-      "y": -0.0009079355,
-      "z": -0.000320964144
+      "x": -0.0004828532,
+      "y": 0.0006355782,
+      "z": 0.000494011736
     },
     "head": {
       "x": -0.683209956,
