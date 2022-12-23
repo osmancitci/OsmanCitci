@@ -1,8 +1,4 @@
-<img src="Media/Rainbow.gif" width="100%">
 
-<div align="center">
-  <img src="Media/Hero.png" alt="Profile Picture">
-</div>
 <img src="https://raw.githubusercontent.com/osmancitci/osmancitci/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -20,9 +16,3 @@
   </a>
 </div>
 ###
-
-<div>
-  <img src="Media/Gradients.png" alt="Gradients" width="100%">
-</div>
-
-<img src="Media/Rainbow.gif" width="100%">
