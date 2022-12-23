@@ -3,8 +3,8 @@
 <div align="center">
   <img src="Media/Hero.png" alt="Profile Picture">
 </div>
-<img src="https://raw.githubusercontent.com/osmancitci/osmancitci/blob/output/snake.svg" alt="Snake animation" />
-![osmancitci snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/osmancitci/OsmanCitci/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![o snake gif](https://github.com/osmancitci/OsmanCitci/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
