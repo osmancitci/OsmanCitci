@@ -1,8 +1,3 @@
-<style>
-body {
-  background-image: url('Media/Hero.png');
-}
-</style>
 <img src="Media/Rainbow.gif" width="100%">
 
 <div align="center">
