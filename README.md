@@ -1,1 +1,1 @@
-<a href=#><img src="repo.svg"></a>
+![GitHub Snake dark](repo.svg#gh-dark-mode-only)
