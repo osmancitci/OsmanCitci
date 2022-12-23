@@ -4,9 +4,7 @@
   <img src="Media/Hero.png" alt="Profile Picture">
 </div>
 <div align="center">
-  <a href="">
-  <img  src="repo.svg"
-       alt="snake" /></a>
+<img src="https://raw.githubusercontent.com/osmancitci/osmancitci/blob/output/snake.svg" alt="Snake animation" />
 </div>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=osmancitci)
 <div>
