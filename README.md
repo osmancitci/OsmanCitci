@@ -4,6 +4,7 @@
   <img src="Media/Hero.png" alt="Profile Picture">
 </div>
 <img src="https://raw.githubusercontent.com/osmancitci/osmancitci/blob/output/snake.svg" alt="Snake animation" />
+![osmancitci snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
