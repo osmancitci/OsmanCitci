@@ -12,4 +12,4 @@
   <img src="Media/Gradients.png" alt="Gradients" width="100%">
 </div>
 
-<img src="Rainbow.gif" width="100%">
+<img src="Media/Rainbow.gif" width="100%">
