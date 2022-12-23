@@ -8,6 +8,7 @@
   <img  src="repo.svg"
        alt="snake" /></a>
 </div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=osmancitci)
 <div>
   <img src="Media/Gradients.png" alt="Gradients" width="100%">
 </div>
