@@ -14,6 +14,12 @@
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=osmancitci&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
 </div>
 
+
+<div align="center">
+<p align="center">
+<img src="https://visitor-count-b8lb.vercel.app/api/OsmanCitci" />
+</p>
+</div>
 <div>
   <img src="Media/Gradients.png" alt="Gradients" width="100%">
 </div>
