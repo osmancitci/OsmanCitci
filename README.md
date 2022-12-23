@@ -1,5 +1,8 @@
-<br clear="both">
+<img src="Media/Rainbow.gif" width="100%">
 
+<div align="center">
+  <img src="Media/Hero.png" alt="Profile Picture">
+</div>
 <img src="https://raw.githubusercontent.com/osmancitci/osmancitci/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -12,9 +15,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/osmancitci">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=osmancitci&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=osmancitci&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=osmancitci&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=53b14f&bar_color_cover=true)]]
+
+</div>
+###
+
+<div>
+  <img src="Media/Gradients.png" alt="Gradients" width="100%">
 </div>
 
-###
+<img src="Media/Rainbow.gif" width="100%">
