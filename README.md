@@ -5,7 +5,7 @@
 </div>
 ![GitHub Snake dark](repo.svg#gh-dark-mode-only)
 <div>
-  <img src="Gradients.png" alt="Gradients" width="100%">
+  <img src="Media/Gradients.png" alt="Gradients" width="100%">
 </div>
 
 <img src="Rainbow.gif" width="100%">
