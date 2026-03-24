@@ -4,7 +4,9 @@
   <img src="Media/Hero.png" alt="Profile Picture">
 </div>
 <div align="center">
+  
   ![snake gif](https://github.com/osmancitci/OsmanCitci/blob/output/github-snake-dark.svg)
+  
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=osmancitci" height="150" alt="stats graph"  />
